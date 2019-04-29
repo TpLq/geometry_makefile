@@ -1,0 +1,9 @@
+.o
+.exe
+.bss
+.data
+.text
+.swp
+.swo
+output.txt
+geometry
