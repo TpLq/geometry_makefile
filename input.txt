@@ -1,2 +1,0 @@
-circule(3, 987, 12)
-circule(1, 1, 2)
