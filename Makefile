@@ -12,5 +12,5 @@ $(EXECUTABLE): $(OD)geometry.o
 $(OD)geometry.o: $(SD)geometry.c
 	$(CC) $(CFLAGS) -c -o $(OD)geometry.o $(SD)geometry.c -lm
 clean:
-rm -rf $(EXECUTABLE) $(OD)*.o
+	rm -rf $(EXECUTABLE) $(OD)*.o
 
